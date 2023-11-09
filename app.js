@@ -1,7 +1,6 @@
 const loadStuffData = async () => {
   const response = await fetch("./staffs.json");
   const data = await response.json();
-  console.log(data);
 
   const stuffContainer = document.getElementById("stuffs");
 

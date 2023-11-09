@@ -10,7 +10,7 @@ const loadStuffData = async () => {
     div.innerHTML = `
     <div class="card bg-base-100 shadow-xl">
                 <figure class="px-10 pt-10">
-                  <img class="h-48 rounded-full" src=${stuff.image} alt="Shoes" class="rounded-xl" />
+                  <img class="h-48 rounded-full border border-purple-900" src=${stuff.image} alt="${stuff.name} image" class="rounded-xl" />
                 </figure>
                 <div class="card-body items-center text-center">
                   <h2 class="card-title">${stuff.name}</h2>

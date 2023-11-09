@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Sakib Mahamud",
+    "image": "./images/sakib.jpg",
+    "job_title": "Manager",
+    "email": "john.doe@example.com",
+    "mobile": "123-456-7890"
+  },
+  {
+    "id": 2,
+    "name": "Habibur Rahman",
+    "image": "https://pps.whatsapp.net/v/t61.24694-24/390056988_683088243920613_2228959889328253526_n.jpg?ccb=11-4&oh=01_AdRgBIYBMHWSFMbNDhEqkmXfkfGvyMK8Q9_h0jog-WDuHg&oe=6558D14A&_nc_sid=e6ed6c&_nc_cat=100",
+    "job_title": "Assistant Manager",
+    "email": "jane.smith@example.com",
+    "mobile": "987-654-3210"
+  },
+  {
+    "id": 3,
+    "name": "Bulbul Ahmed",
+    "image": "path/to/bob_johnson_image.jpg",
+    "job_title": "Photocopy Machine Operator",
+    "email": "bob.johnson@example.com",
+    "mobile": "555-123-4567"
+  },
+  {
+    "id": 4,
+    "name": "Mahadi Hasan",
+    "image": "https://github.com/mahadi570/navbar-for-desktop/blob/main/image/designer.jpg?raw=true",
+    "job_title": "Typist",
+    "email": "mahadihasan18407@gmail.com",
+    "mobile": "+971564718620"
+  },
+  {
+    "id": 5,
+    "name": "Tahidul Islam",
+    "image": "./images/tahid.jpg",
+    "job_title": "Typist",
+    "email": "bob.johnson@example.com",
+    "mobile": "555-123-4567"
+  }
+]
